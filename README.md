@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web programming & .Net Framework
 - 🌱 I’m currently learning Asp.Net Core
 - 📫 How to reach me:</br>
-      -Telegram:<b>@ImAliSaeidi</b></br>
-      -Website:<b>ImAlisaeidi.ir</b></br>
-      -Email:<b>Imalisaeidi@gmail.com</b>
+      -Telegram:<b>@ImAliSaeidi&#10004;</b></br>
+      -Website:<b>ImAlisaeidi.ir&#10004;</b></br>
+      -Email:<b>Imalisaeidi@gmail.com&#10004;</b>
       <hr>
 
 <!---
