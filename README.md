@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AliSaeidi
-- 👀 Interested in Web programming & .Net Framework
-- 🌱 Backend Developer
+<p>- 👋 Hi, I’m AliSaeidi</p>
+<p>- 💻 Backend Developer</p>
+<p>- ✔️ C#&nbsp|&nbsp.Net Core&nbsp|&nbspSQL</p>
 - 📫 How to reach me:</br>
       -Telegram:<b>@ImAliSaeidi &#10004;</b></br>
       -Email:<b>Imalisaeidi@gmail.com &#10004;</b>
