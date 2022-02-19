@@ -1,6 +1,6 @@
-<p>- 👋 Hi, I’m AliSaeidi</p>
-<p>- 💻 Backend Developer</p>
-<p>- ✔️ C#&nbsp|&nbsp.Net Core&nbsp|&nbspSQL</p>
+- 👋 Hi, I’m AliSaeidi
+- 💻 Backend Developer
+- ✔️ C# | .Net Core | SQL
 - 📫 How to reach me:</br>
       -Telegram:<b>@ImAliSaeidi &#10004;</b></br>
       -Email:<b>Imalisaeidi@gmail.com &#10004;</b>
