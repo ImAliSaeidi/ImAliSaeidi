@@ -7,7 +7,7 @@
       <hr>
       <h2>Stats:</h2>
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAliSaeidi&ount_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAliSaeidi&layout=compact&theme=radical&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAliSaeidi&layout=compact&theme=radical&hide_border=true&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 <a href="https://github.com/ImAliSaeidi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAliSaeidi" />
